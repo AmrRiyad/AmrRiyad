@@ -4,14 +4,6 @@
 
  </div>
 
-<!-- 
-$$
-  e^{iπ} + 1 = 0
-$$ -->
-
-
-<!-- <img align="right" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif"  width="53.5%"/> -->
-
 <picture align="right"  width="53.5%">
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif"   width="53.5%">
   <img  align="right"   alt="" src=""   width="53.5%">
@@ -34,26 +26,11 @@ programming-languages:
   - Dart
 ```
 
-<!-- <p align="center"> 
-  <picture align="center">
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KhaledR57&theme=github_dark">
-    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=KhaledR57" >
-  </picture>
-    <img src = "https://github-readme-stats.vercel.app/api?username=KhaledR57&theme=github_dark">
-</p> -->
-
-<!-- <p align="center">
-<a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p> -->
-
-##
-
-  <p align="center">
-  <a href="mailto:amrriyad89@gmail.com">
-    <img src="https://img.shields.io/badge/amrriyad89-gmail-red?style=flat&logo=gmail">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/amrriyad-discord-blue?style=flat&logo=discord">
-  </a>
-  </p>
-<!--
+<p align="center">
+<a href="mailto:amrriyad89@gmail.com">
+  <img src="https://img.shields.io/badge/amrriyad89-gmail-red?style=flat&logo=gmail">
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/amrriyad-discord-blue?style=flat&logo=discord">
+</a>
+</p>
