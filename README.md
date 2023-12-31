@@ -19,19 +19,19 @@ $$ -->
 
 
 ``` yaml
-name: KhaledR57
-mail: khaledriyad57@gmail.com
+name: Amr Riyad
+mail: amrriyad89@gmail.com
 company: null
 title: Computer Science Student
 interests:
   - AI
-  - linux
+  - Linux
   - Back-End Dev
   - open source
 programming-languages:
   - c/c++
-  - java
-  - python
+  - Python
+  - Dart
 ```
 
 <!-- <p align="center"> 
@@ -49,27 +49,11 @@ programming-languages:
 ##
 
   <p align="center">
-  <a href="mailto:khaledriyad57@gmail.com">
-    <img src="https://img.shields.io/badge/khaledriyad57-gmail-red?style=flat&logo=gmail">
-  </a>
-  <a href="https://www.youtube.com/channel/UC3pcIFz_1rFaSKTGnUbSmkA">
-    <img src="https://img.shields.io/badge/Khaled%20Riyad-youtube-red?style=flat&logo=youtube">
+  <a href="mailto:amrriyad89@gmail.com">
+    <img src="https://img.shields.io/badge/amrriyad89-gmail-red?style=flat&logo=gmail">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Khaled57%234672-discord-blue?style=flat&logo=discord">
+    <img src="https://img.shields.io/badge/amrriyad-discord-blue?style=flat&logo=discord">
   </a>
   </p>
 <!--
-**KhaledR57/KhaledR57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
