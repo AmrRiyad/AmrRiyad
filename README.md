@@ -19,7 +19,6 @@ interests:
   - AI
   - Linux
   - Back-End Dev
-  - open source
 programming-languages:
   - c/c++
   - Python
