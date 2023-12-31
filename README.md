@@ -13,7 +13,7 @@
 ``` yaml
 name: Amr Riyad
 mail: amrriyad89@gmail.com
-company: null
+company: Jozor
 title: Computer Science Student
 interests:
   - AI
