@@ -13,14 +13,13 @@
 ``` yaml
 name: Amr Riyad
 mail: amrriyad89@gmail.com
-company: Jozor
+company: Instabug
 title: Computer Science Student
 interests:
-  - AI
   - Linux
   - Back-End Dev
 programming-languages:
-  - c/c++
+  - c++
   - Python
   - Dart
 ```
