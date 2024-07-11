@@ -20,8 +20,8 @@ interests:
   - Back-End Dev
 programming-languages:
   - c++
-  - Python
-  - Dart
+  - Ruby
+  - Go
 ```
 
 <p align="center">
