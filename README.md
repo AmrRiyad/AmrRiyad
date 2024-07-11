@@ -14,7 +14,7 @@
 name: Amr Riyad
 mail: amrriyad89@gmail.com
 company: Instabug
-title: Computer Science Student
+title: Backend Dev
 interests:
   - Linux
   - Back-End Dev
