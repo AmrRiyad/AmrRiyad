@@ -13,7 +13,7 @@
 ``` yaml
 name: Amr Riyad
 mail: amrriyad89@gmail.com
-company: Instabug
+company: Kyklo
 title: Backend Dev
 interests:
   - Linux
