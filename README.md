@@ -4,9 +4,7 @@
 
 </div>
 
-<picture align="right"  width="53.5%">
-<img align="right" src="_.gif" width="53.5%" alt="Pinterest GIF">
-</picture>
+<img align="right" src="_.gif" width="53.5%" alt="Pinterest GIF" style="padding: 20px;">
 
 ```yaml
 name: Amr Riyad
