@@ -5,7 +5,7 @@
 </div>
 
 <picture align="right"  width="53.5%">
-<img align="right" src="_.gif" width="50%" alt="Pinterest GIF">
+<img align="right" src="_.gif" width="50.5%" alt="Pinterest GIF">
 </picture>
 
 ``` yaml
